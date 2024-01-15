@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7497f258.css",
+    "main.js": "/static/js/main.c537ed74.js",
+    "static/media/bg-video.mov": "/static/media/bg-video.c737ecf6863bd3e744d2.mov",
+    "static/media/3.png": "/static/media/3.a21e8c27571619bed4f4.png",
+    "static/media/1.png": "/static/media/1.a76635e9bbcdeba37f63.png",
+    "static/media/profile.png": "/static/media/profile.c3456fb924c710c94bf3.png",
+    "static/media/ui-ux.png": "/static/media/ui-ux.9a6fd4d09200454152f9.png",
+    "static/media/2.jpeg": "/static/media/2.d7d2bca9f413818ff8e4.jpeg",
+    "static/media/4.jpeg": "/static/media/4.9837aaa68bc503b00e78.jpeg",
+    "static/media/SM.png": "/static/media/SM.903f40af9ba7c60e9f90.png",
+    "static/media/webdev.png": "/static/media/webdev.2a3cf1a25ed30aab7a02.png",
+    "static/media/app-development.png": "/static/media/app-development.6894d9fcc94574ab0d75.png",
+    "static/media/bankend.png": "/static/media/bankend.4b7156e87c82d266441d.png",
+    "static/media/album art.png": "/static/media/album art.3c06e39950615b86fd93.png",
+    "static/media/slick.svg": "/static/media/slick.7ba97953187dc2907930.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.7497f258.css.map": "/static/css/main.7497f258.css.map",
+    "main.c537ed74.js.map": "/static/js/main.c537ed74.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7497f258.css",
+    "static/js/main.c537ed74.js"
+  ]
+}
